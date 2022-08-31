@@ -18,3 +18,12 @@
    color:#333;
    background:#a1c3ff;
   }
+   
+  h1,h2{
+    margin-bottom: 15px;
+    
+  }
+  .container{
+    max-width: 1100px;
+  }
+  
