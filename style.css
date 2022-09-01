@@ -85,5 +85,18 @@
   font-size: 3rem;
   font-weight: bold;
   line-height: 1.2;
-  
+
  }
+  .header img{
+    max-width: 400px;
+    margin-top: 50px;
+    justify-content: end;
+
+  }
+
+  .header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+  }
